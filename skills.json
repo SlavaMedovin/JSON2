@@ -1,0 +1,7 @@
+[{"GitHub" : "Terminal",
+  "Sniffers":["Fiddler","Charlers"],
+  "DevTools":["Chrome","Firefox"],
+  "SQL" : ["CRUD","Join","COUNT"],
+  "Mobile testing": ["Xcode","AndroidStudio"]
+
+}]
